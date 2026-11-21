@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "series": "river",
+      "revision": "s1",
+      "product": "m-01",
+      "period": "2026-Q3",
+      "units": 30,
+      "available_days": 25
+    },
+    {
+      "series": "river",
+      "revision": "s2",
+      "product": "m-01",
+      "period": "2026-Q3",
+      "units": 30,
+      "available_days": 25
+    },
+    {
+      "series": "river",
+      "revision": "s2",
+      "product": "m-03",
+      "period": "2026-Q3",
+      "units": 17,
+      "available_days": 4
+    },
+    {
+      "series": "mountain",
+      "revision": "s1",
+      "product": "m-03",
+      "period": "2026-Q3",
+      "units": 22,
+      "available_days": 22
+    }
+  ]
+}

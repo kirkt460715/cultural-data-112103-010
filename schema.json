@@ -1,0 +1,19 @@
+{
+  "collection": "records",
+  "fields": [
+    "series",
+    "revision",
+    "product",
+    "period",
+    "units",
+    "available_days"
+  ],
+  "example": {
+    "series": "river",
+    "revision": "s1",
+    "product": "m-01",
+    "period": "2026-Q3",
+    "units": 30,
+    "available_days": 25
+  }
+}
